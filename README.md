@@ -26,4 +26,4 @@ The Accident Detection AI System is designed to enhance road safety by quickly i
 - **Reduced Manual Intervention:** Automates the detection and alert process, minimizing the need for human monitoring.
 - **Improved Accuracy:** Employs advanced AI techniques to reduce false alarms and missed detections.
 
-##do check other repositories
+
